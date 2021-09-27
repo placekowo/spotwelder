@@ -1,6 +1,8 @@
 # spotwelder
  Arduino-based spot welder timing circuit.
  
+ ![circuit](/images/circuit.jpg)
+ 
  Pulses a high current transformer with the set millisecond value. Intended for spot welding batteries, but it can be adapted for other things too. 
  
  **Parts list:**
@@ -18,3 +20,5 @@
  A microwave transformer was modified by cutting out the secondary winding, and replacing it with 3 turns of jump lead wire. The output is around 2.5V.
 
  Inspired by Under Dunn: https://www.youtube.com/watch?v=6w9dFNRtqlg
+ 
+ See the circuit in action here: https://www.youtube.com/watch?v=Esd97ueD8yo (haven't got around to making the PCB and case yet.)
