@@ -2,6 +2,7 @@
  Arduino-based spot welder timing circuit.
  
  ![circuit](/images/circuit.jpg)
+ ![welder](/images/gg.jpg)
  
  Pulses a high current transformer with the set millisecond value. Intended for spot welding batteries, but it can be adapted for other things too. 
  
@@ -21,4 +22,4 @@
 
  Inspired by Under Dunn: https://www.youtube.com/watch?v=6w9dFNRtqlg
  
- See the circuit in action here: https://www.youtube.com/watch?v=Esd97ueD8yo (haven't got around to making the PCB and case yet.)
+ See the circuit in action here: https://www.youtube.com/watch?v=ylIUE_vY4U8 (haven't got around to making the PCB and case yet.)
