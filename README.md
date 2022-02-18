@@ -22,4 +22,5 @@
 
  Inspired by Under Dunn: https://www.youtube.com/watch?v=6w9dFNRtqlg
  
- See the circuit in action here: https://www.youtube.com/watch?v=ylIUE_vY4U8 (haven't got around to making the PCB and case yet.)
+ See the circuit in action here: https://www.youtube.com/watch?v=ylIUE_vY4U8
+ And here it is all complete in a nice enclosure :) https://www.youtube.com/watch?v=NYF3b98wqtI
